@@ -34,9 +34,6 @@
    <a href="https://unity.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> 
    </a>
-   <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer"> 
-      <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="fusion360" width="40" height="40" /> 
-   </a>
    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" /> 
    </a>
